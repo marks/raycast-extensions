@@ -6,6 +6,9 @@
   "description": "Search the Retool documentation from Raycast",
   "icon": "icon.png",
   "author": "andre347",
+  "contributors": [
+    "marks"
+  ],
   "categories": [
     "Documentation"
   ],
